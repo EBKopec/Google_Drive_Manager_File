@@ -1,5 +1,5 @@
-#########################################################################
-Created By  : Everton Barbosa Kopec
+#########################################################################\n
+Created By  : Everton Barbosa Kopec\n
 Created Date: 27/03/2022
 version ='1.0'
 Made for Python 3.5 and Google Drive API v3.
