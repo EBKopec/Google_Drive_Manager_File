@@ -1,12 +1,13 @@
-#########################################################################\n
-Created By  : Everton Barbosa Kopec\n
-Created Date: 27/03/2022
-version ='1.0'
-Made for Python 3.5 and Google Drive API v3.
-Instructions:
-Create a service account and adds it in Creds local folder.
-Download_Files é usado para armazenar os arquivos na opção `d` opção `a`.
-Usage:
+
+Created By  : Everton Barbosa Kopec<br />
+Created Date: 27/03/2022<br />
+version ='1.0'<br />
+Made for Python 3.5 and Google Drive API v3.<br />
+Instructions:<br />
+Create a service account and adds it in Creds local folder.<br />
+Download_Files é usado para armazenar os arquivos na opção `d` opção `a`.<br />
+Usage:<br />
+```
 [a] Listar Pastas no Google Drive
 [b] Listar Arquivos no Google Drive
 [c] Upload Arquivo para o Google Drive - Se o arquivo já existe, um update do arquivo será feito.
@@ -20,4 +21,4 @@ Usage:
 [e] Download Pasta de alguma pasta desejada do Google Drive para um diretório local
 [f] Apagar Arquivo do Google Drive - Só é possível os arquivos que a Service Account tiver permissão para exclusão.
 [q] Quit - Fechar Menu
-##########################################################################
+```
